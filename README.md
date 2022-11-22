@@ -1,0 +1,2 @@
+# AOC_ViniciusNoletoDeAraujoAlexSilvaCosta_UFRR_LabCircuitos_2022
+Arquitetura e Organização de Computadores DCC301: Avaliação de Barramento
