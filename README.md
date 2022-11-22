@@ -44,3 +44,21 @@
 <h2>Questão 2: Multiplexador</h2>
 <img>
 <h4>O Multiplexador funciona a partir de portas lógicas <i>E</i> encadeadas, onde as entradas são negadas para relacionarem-se com valores binários como '001', ou seja, as duas primeiras entradas desligadas e a última ligada.</h4>
+<h2>Questão 11: Extensão de Sinal</h2>
+<img>
+<h4>O extensor de sinal aumenta o tamanho de um input, por exemplo, 'i1001' transforma-se em 'o00001001', transformando 4bits para 8bits.</h4>
+<h2>Questão 4: Somador com número 4</h2>
+<img>
+<h4>O Somador funciona passando a corrente caso os valores de entrada sejam diferentes ou caso o resto da soma anterior seja igual a 1, neste caso o valor de soma é fixo, sendo ele, igual a 4.</h4>
+<h2>Questão 7: Banco de Registradores</h2>
+<img>
+<h4>O Banco de Registradores funciona por meio da criação de diversos registradores organizados por endereços. Os registradores são 8 Flip Flops D ordenados e conectados a saída, gerando um número de 8bits e guardando-o. O Banco de Registradores recebe três inputs, um valor de 1bit que designa se um valor será lido ou escrito no Banco, o valor a ser guardado (caso vá escrever um registrador) e o endereço que ele será guardado ou lido.</h4>
+<h2>Questão 13: Contador Síncrono/h2>
+<img>
+<h4>O Contador Síncrono funciona por meio do uso de Flip Flops D relacionados por meio de portas lógicas <i>E</i>, alterando o próximo valor apenas no caso de todos os anteriores sejam iguais a 1.</h4>
+  <h2>Questão 6: Memória RAM/h2>
+<img>
+<h4>.</h4>
+  <h2>Questão 5: Memória ROM/h2>
+<img>
+<h4>.</h4>
