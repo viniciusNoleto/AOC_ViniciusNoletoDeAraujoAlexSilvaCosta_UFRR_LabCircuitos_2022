@@ -53,12 +53,12 @@
 <h2>Questão 7: Banco de Registradores</h2>
 <img>
 <h4>O Banco de Registradores funciona por meio da criação de diversos registradores organizados por endereços. Os registradores são 8 Flip Flops D ordenados e conectados a saída, gerando um número de 8bits e guardando-o. O Banco de Registradores recebe três inputs, um valor de 1bit que designa se um valor será lido ou escrito no Banco, o valor a ser guardado (caso vá escrever um registrador) e o endereço que ele será guardado ou lido.</h4>
-<h2>Questão 13: Contador Síncrono/h2>
+<h2>Questão 13: Contador Síncrono</h2>
 <img>
 <h4>O Contador Síncrono funciona por meio do uso de Flip Flops D relacionados por meio de portas lógicas <i>E</i>, alterando o próximo valor apenas no caso de todos os anteriores sejam iguais a 1.</h4>
-  <h2>Questão 6: Memória RAM/h2>
+  <h2>Questão 6: Memória RAM</h2>
 <img>
 <h4>.</h4>
-  <h2>Questão 5: Memória ROM/h2>
+  <h2>Questão 5: Memória ROM</h2>
 <img>
 <h4>.</h4>
