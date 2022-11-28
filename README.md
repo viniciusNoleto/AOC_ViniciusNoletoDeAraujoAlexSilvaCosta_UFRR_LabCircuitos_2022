@@ -93,8 +93,8 @@
 <h4>.</h4>
 <h2>Questão 10: ULA 8 bits</h2>
 <div>
-<img src="https://user-images.githubusercontent.com/85528669/204191470-8b28c741-ca8d-4562-ae65-599c1efd614f.png" width="500px" height="300px" align="center">
-<img src="https://user-images.githubusercontent.com/85528669/204177863-8b4a861d-c96a-4258-ad6c-21a03e6e907b.png" width="350px" height="250px">
+<img src="https://user-images.githubusercontent.com/85528669/204191470-8b28c741-ca8d-4562-ae65-599c1efd614f.png" width="500px" height="300px">
+<img src="https://user-images.githubusercontent.com/85528669/204177646-16ddcc3f-e067-4084-be86-491a5b6854fc.png" width="250px" height="300px">
 </div>
 <h4>.</h4>
 <h2>Questão 9: Unidade de Controle MIPS</h2>
