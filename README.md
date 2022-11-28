@@ -59,6 +59,14 @@
 </div>
 </div>
 <h4>O Somador funciona passando a corrente caso os valores de entrada sejam diferentes ou caso o resto da soma anterior seja igual a 1, neste caso o valor de soma é fixo, sendo ele, igual a 4.</h4>
+<h2>Questão 8: Somador de Dois Números de 8 bits</h2>
+<div>
+<img src="https://user-images.githubusercontent.com/85528669/204177592-83263657-0e62-459f-b510-e477c0a1ef39.png" width="600px" height="180px">
+<div align="center">
+<img src="https://user-images.githubusercontent.com/85528669/204177612-0427bcd9-b62d-48b6-9cbc-dd86210d019f.png" width="300px" height="180px">
+</div>
+</div>
+<h4>O Somador funciona passando a corrente caso os valores de entrada sejam diferentes ou caso o resto da soma anterior seja igual a 1, neste caso o valor de soma não é fixo, desta forma, dois valores de 8 bits qualquer podem ser somados.</h4>
 <h2>Questão 7: Banco de Registradores</h2>
 <div>
 <img src="https://user-images.githubusercontent.com/85528669/204188148-ba84c16b-cb02-4649-8ad5-7e43ad4e4eb2.png" width="200px" height="260px">
@@ -75,6 +83,20 @@
 </div>
 <h4>.</h4>
 <h2>Questão 5: Memória ROM</h2>
-<img src="https://user-images.githubusercontent.com/85528669/204176965-1f790004-9ac6-4558-bb23-fbac454414cd.png" width="220px" height="340px" align="top">
+<div>
+<img src="https://user-images.githubusercontent.com/85528669/204176965-1f790004-9ac6-4558-bb23-fbac454414cd.png" width="230px" height="340px" align="top">
 <img src="https://user-images.githubusercontent.com/85528669/204177055-b5869b42-3eb3-4c2f-8a0b-8558fe602fd9.png" width="350px" height="150px">
+</div>
+<h4>.</h4>
+<h2>Questão 12: Máquina de Estados Hebert</h2>
+<img src="https://user-images.githubusercontent.com/85528669/204177863-8b4a861d-c96a-4258-ad6c-21a03e6e907b.png" width="350px" height="250px">
+<h4>.</h4>
+<h2>Questão 10: ULA 8 bits</h2>
+<div>
+<img src="https://user-images.githubusercontent.com/85528669/204191470-8b28c741-ca8d-4562-ae65-599c1efd614f.png" width="500px" height="300px" align="center">
+<img src="https://user-images.githubusercontent.com/85528669/204177863-8b4a861d-c96a-4258-ad6c-21a03e6e907b.png" width="350px" height="250px">
+</div>
+<h4>.</h4>
+<h2>Questão 9: Unidade de Controle MIPS</h2>
+<img src="https://user-images.githubusercontent.com/85528669/204177863-8b4a861d-c96a-4258-ad6c-21a03e6e907b.png" width="350px" height="250px">
 <h4>.</h4>
