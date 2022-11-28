@@ -36,8 +36,10 @@
 <h1 align='center'>RESULTADOS:</h1>
 <br>
 <h2>Questão 1: Flip Flop JK e Flip Flop D</h2>
-<img hre="https://user-images.githubusercontent.com/85528669/204176646-9daa7f9a-0fc5-492c-868a-e45910cb7692.png">
-<img hre="https://user-images.githubusercontent.com/85528669/204176692-1e90504d-7f31-4ce8-b783-f2c353f35bc1.png">
+<div>
+<img src="https://user-images.githubusercontent.com/85528669/204176692-1e90504d-7f31-4ce8-b783-f2c353f35bc1.png" width="270px" height="180px">
+<img src="https://user-images.githubusercontent.com/85528669/204176646-9daa7f9a-0fc5-492c-868a-e45910cb7692.png" width="270px" height="180px">
+</div>
 <h4>O modelo de Flip Flop utilizado foi o <i>Flip-Flop Mestre-Escravo</i>, pois outros modelos de Flip Flop resultaram em erro no programa Logisim. O modelo Mestre-Escravo possui um Flip Flop JK e um Flip Flip RS com o clock invertido, impedindo o que ocorra erro no caso <i>i11</i>.</h4>
 <h2>Questão 3: Equivalencia de XOR</h2>
 <img>
