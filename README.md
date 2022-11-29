@@ -88,7 +88,7 @@
 <img src="https://user-images.githubusercontent.com/85528669/204177055-b5869b42-3eb3-4c2f-8a0b-8558fe602fd9.png" width="350px" height="150px">
 </div>
 <h4>.</h4>
-<h2>Questão 12: Máquina de Estados Hebert</h2>
+<h2>Questão 12: Máquina de Estados Herbert</h2>
 <img src="https://user-images.githubusercontent.com/85528669/204177863-8b4a861d-c96a-4258-ad6c-21a03e6e907b.png" width="350px" height="250px">
 <h4>.</h4>
 <h2>Questão 10: ULA 8 bits</h2>
@@ -98,5 +98,5 @@
 </div>
 <h4>.</h4>
 <h2>Questão 9: Unidade de Controle MIPS</h2>
-<img src="https://user-images.githubusercontent.com/85528669/204177863-8b4a861d-c96a-4258-ad6c-21a03e6e907b.png" width="350px" height="250px">
+<img src="https://user-images.githubusercontent.com/85528669/204177684-f7bdfa88-e382-440c-9182-a11f77773d7f.png" width="350px" height="250px">
 <h4>.</h4>
