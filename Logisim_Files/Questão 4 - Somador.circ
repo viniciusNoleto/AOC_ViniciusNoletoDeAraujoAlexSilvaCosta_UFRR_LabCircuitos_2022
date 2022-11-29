@@ -56,7 +56,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
   </toolbar>
   <circuit name="main">
     <a name="circuit" val="main"/>
-    <a name="clabel" val=""/>
+    <a name="clabel" val="S"/>
     <a name="clabelup" val="east"/>
     <a name="clabelfont" val="SansSerif plain 12"/>
     <wire from="(1360,390)" to="(1470,390)"/>
@@ -447,173 +447,257 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(2630,260)" to="(2630,290)"/>
     <wire from="(2640,280)" to="(3390,280)"/>
     <wire from="(3000,620)" to="(3110,620)"/>
-    <comp lib="1" loc="(2920,370)" name="XOR Gate"/>
-    <comp lib="1" loc="(3270,610)" name="OR Gate"/>
-    <comp lib="0" loc="(3480,230)" name="Constant">
-      <a name="facing" val="north"/>
-      <a name="value" val="0x0"/>
-    </comp>
-    <comp lib="1" loc="(1630,380)" name="OR Gate"/>
-    <comp lib="1" loc="(660,300)" name="AND Gate"/>
-    <comp lib="0" loc="(3520,320)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="tristate" val="false"/>
-    </comp>
-    <comp lib="0" loc="(3580,230)" name="Constant">
-      <a name="facing" val="north"/>
-      <a name="value" val="0x0"/>
-    </comp>
-    <comp lib="6" loc="(3710,253)" name="Text">
-      <a name="text" val="="/>
-      <a name="font" val="SansSerif plain 20"/>
-    </comp>
-    <comp lib="0" loc="(30,120)" name="Constant">
-      <a name="facing" val="south"/>
-      <a name="value" val="0x0"/>
-    </comp>
+    <comp lib="1" loc="(1260,210)" name="XOR Gate"/>
+    <comp lib="1" loc="(1690,250)" name="XOR Gate"/>
     <comp lib="0" loc="(3750,290)" name="Pin">
       <a name="facing" val="south"/>
       <a name="output" val="true"/>
       <a name="labelloc" val="east"/>
     </comp>
-    <comp lib="1" loc="(2510,330)" name="XOR Gate"/>
-    <comp lib="1" loc="(1150,190)" name="XOR Gate"/>
     <comp lib="0" loc="(3500,320)" name="Pin">
       <a name="facing" val="south"/>
       <a name="tristate" val="false"/>
     </comp>
-    <comp lib="0" loc="(3480,320)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="tristate" val="false"/>
-    </comp>
-    <comp lib="0" loc="(3730,290)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="labelloc" val="east"/>
-    </comp>
-    <comp lib="1" loc="(3160,610)" name="AND Gate"/>
-    <comp lib="1" loc="(2340,520)" name="AND Gate"/>
-    <comp lib="1" loc="(720,150)" name="XOR Gate"/>
-    <comp lib="0" loc="(3540,230)" name="Constant">
-      <a name="facing" val="north"/>
-    </comp>
-    <comp lib="1" loc="(1990,270)" name="XOR Gate"/>
-    <comp lib="1" loc="(2750,500)" name="AND Gate"/>
-    <comp lib="0" loc="(3710,290)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="labelloc" val="east"/>
-    </comp>
-    <comp lib="0" loc="(3650,290)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="labelloc" val="east"/>
-    </comp>
-    <comp lib="1" loc="(3330,480)" name="XOR Gate"/>
-    <comp lib="0" loc="(3500,230)" name="Constant">
-      <a name="facing" val="north"/>
-      <a name="value" val="0x0"/>
-    </comp>
-    <comp lib="1" loc="(2450,460)" name="OR Gate"/>
-    <comp lib="0" loc="(3440,320)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="tristate" val="false"/>
-    </comp>
-    <comp lib="1" loc="(1260,210)" name="XOR Gate"/>
-    <comp lib="1" loc="(2750,440)" name="AND Gate"/>
-    <comp lib="1" loc="(280,110)" name="XOR Gate"/>
-    <comp lib="1" loc="(270,190)" name="AND Gate"/>
-    <comp lib="1" loc="(1690,250)" name="XOR Gate"/>
-    <comp lib="0" loc="(3560,230)" name="Constant">
-      <a name="facing" val="north"/>
-      <a name="value" val="0x0"/>
-    </comp>
-    <comp lib="0" loc="(3460,230)" name="Constant">
-      <a name="facing" val="north"/>
-      <a name="value" val="0x0"/>
-    </comp>
-    <comp lib="1" loc="(1520,380)" name="AND Gate"/>
-    <comp lib="1" loc="(3160,670)" name="AND Gate"/>
-    <comp lib="1" loc="(1090,400)" name="AND Gate"/>
+    <comp lib="1" loc="(2860,500)" name="OR Gate"/>
     <comp lib="1" loc="(1520,440)" name="AND Gate"/>
-    <comp lib="0" loc="(3560,320)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="tristate" val="false"/>
-    </comp>
-    <comp lib="0" loc="(3790,290)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="output" val="true"/>
-      <a name="labelloc" val="east"/>
-    </comp>
-    <comp lib="1" loc="(2340,460)" name="AND Gate"/>
     <comp lib="0" loc="(3670,290)" name="Pin">
       <a name="facing" val="south"/>
       <a name="output" val="true"/>
       <a name="labelloc" val="east"/>
     </comp>
-    <comp lib="1" loc="(1580,230)" name="XOR Gate"/>
-    <comp lib="1" loc="(1930,420)" name="AND Gate"/>
-    <comp lib="1" loc="(660,360)" name="AND Gate"/>
-    <comp lib="1" loc="(3220,460)" name="XOR Gate"/>
-    <comp lib="1" loc="(2810,350)" name="XOR Gate"/>
-    <comp lib="1" loc="(1930,360)" name="AND Gate"/>
-    <comp lib="1" loc="(1520,320)" name="AND Gate"/>
-    <comp lib="1" loc="(1930,480)" name="AND Gate"/>
-    <comp lib="1" loc="(2860,500)" name="OR Gate"/>
-    <comp lib="0" loc="(3580,320)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="tristate" val="false"/>
+    <comp lib="0" loc="(3540,230)" name="Constant">
+      <a name="facing" val="north"/>
     </comp>
-    <comp lib="0" loc="(3440,230)" name="Constant">
+    <comp lib="1" loc="(3160,610)" name="AND Gate"/>
+    <comp lib="0" loc="(3500,230)" name="Constant">
       <a name="facing" val="north"/>
       <a name="value" val="0x0"/>
     </comp>
-    <comp lib="1" loc="(1090,280)" name="AND Gate"/>
-    <comp lib="1" loc="(3160,550)" name="AND Gate"/>
-    <comp lib="1" loc="(2340,400)" name="AND Gate"/>
-    <comp lib="1" loc="(2100,290)" name="XOR Gate"/>
-    <comp lib="1" loc="(2750,560)" name="AND Gate"/>
-    <comp lib="1" loc="(770,300)" name="OR Gate"/>
+    <comp lib="1" loc="(3270,610)" name="OR Gate"/>
+    <comp lib="0" loc="(30,120)" name="Constant">
+      <a name="facing" val="south"/>
+      <a name="value" val="0x0"/>
+    </comp>
+    <comp lib="1" loc="(720,150)" name="XOR Gate"/>
+    <comp lib="1" loc="(2340,520)" name="AND Gate"/>
+    <comp lib="1" loc="(2040,420)" name="OR Gate"/>
+    <comp lib="1" loc="(2450,460)" name="OR Gate"/>
+    <comp lib="1" loc="(2510,330)" name="XOR Gate"/>
+    <comp lib="1" loc="(1630,380)" name="OR Gate"/>
+    <comp lib="0" loc="(3730,290)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="labelloc" val="east"/>
+    </comp>
+    <comp lib="1" loc="(660,360)" name="AND Gate"/>
+    <comp lib="0" loc="(3690,290)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="labelloc" val="east"/>
+    </comp>
+    <comp lib="1" loc="(2340,460)" name="AND Gate"/>
+    <comp lib="1" loc="(2750,500)" name="AND Gate"/>
+    <comp lib="0" loc="(3460,320)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="tristate" val="false"/>
+    </comp>
+    <comp lib="0" loc="(3520,230)" name="Constant">
+      <a name="facing" val="north"/>
+      <a name="value" val="0x0"/>
+    </comp>
+    <comp lib="1" loc="(2750,440)" name="AND Gate"/>
+    <comp lib="1" loc="(3330,480)" name="XOR Gate"/>
+    <comp lib="0" loc="(3650,290)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="labelloc" val="east"/>
+    </comp>
     <comp lib="0" loc="(3630,290)" name="Pin">
       <a name="facing" val="south"/>
       <a name="output" val="true"/>
       <a name="labelloc" val="east"/>
+    </comp>
+    <comp lib="0" loc="(3480,230)" name="Constant">
+      <a name="facing" val="north"/>
+      <a name="value" val="0x0"/>
+    </comp>
+    <comp lib="1" loc="(830,170)" name="XOR Gate"/>
+    <comp lib="0" loc="(3710,290)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="output" val="true"/>
+      <a name="labelloc" val="east"/>
+    </comp>
+    <comp lib="1" loc="(280,110)" name="XOR Gate"/>
+    <comp lib="0" loc="(3440,230)" name="Constant">
+      <a name="facing" val="north"/>
+      <a name="value" val="0x0"/>
+    </comp>
+    <comp lib="1" loc="(1930,480)" name="AND Gate"/>
+    <comp lib="0" loc="(3580,320)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="tristate" val="false"/>
     </comp>
     <comp lib="0" loc="(3770,290)" name="Pin">
       <a name="facing" val="south"/>
       <a name="output" val="true"/>
       <a name="labelloc" val="east"/>
     </comp>
-    <comp lib="1" loc="(390,130)" name="XOR Gate"/>
-    <comp lib="1" loc="(830,170)" name="XOR Gate"/>
-    <comp lib="1" loc="(1200,340)" name="OR Gate"/>
-    <comp lib="0" loc="(3690,290)" name="Pin">
+    <comp lib="1" loc="(2100,290)" name="XOR Gate"/>
+    <comp lib="1" loc="(770,300)" name="OR Gate"/>
+    <comp lib="6" loc="(3710,253)" name="Text">
+      <a name="text" val="="/>
+      <a name="font" val="SansSerif plain 20"/>
+    </comp>
+    <comp lib="1" loc="(1930,360)" name="AND Gate"/>
+    <comp lib="0" loc="(3790,290)" name="Pin">
       <a name="facing" val="south"/>
       <a name="output" val="true"/>
       <a name="labelloc" val="east"/>
     </comp>
-    <comp lib="0" loc="(3460,320)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="tristate" val="false"/>
+    <comp lib="1" loc="(660,300)" name="AND Gate"/>
+    <comp lib="1" loc="(1090,400)" name="AND Gate"/>
+    <comp lib="0" loc="(3580,230)" name="Constant">
+      <a name="facing" val="north"/>
+      <a name="value" val="0x0"/>
     </comp>
     <comp lib="6" loc="(3503,283)" name="Text">
       <a name="text" val="4 +"/>
       <a name="font" val="SansSerif plain 20"/>
     </comp>
-    <comp lib="6" loc="(3413,242)" name="Text">
-      <a name="text" val="(4)"/>
-    </comp>
-    <comp lib="1" loc="(1090,340)" name="AND Gate"/>
-    <comp lib="1" loc="(2400,310)" name="XOR Gate"/>
-    <comp lib="0" loc="(3520,230)" name="Constant">
-      <a name="facing" val="north"/>
-      <a name="value" val="0x0"/>
-    </comp>
     <comp lib="0" loc="(3540,320)" name="Pin">
       <a name="facing" val="south"/>
       <a name="tristate" val="false"/>
     </comp>
-    <comp lib="1" loc="(2040,420)" name="OR Gate"/>
+    <comp lib="1" loc="(3160,670)" name="AND Gate"/>
+    <comp lib="0" loc="(3440,320)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="tristate" val="false"/>
+    </comp>
+    <comp lib="1" loc="(390,130)" name="XOR Gate"/>
+    <comp lib="1" loc="(2810,350)" name="XOR Gate"/>
+    <comp lib="1" loc="(1090,280)" name="AND Gate"/>
+    <comp lib="1" loc="(2920,370)" name="XOR Gate"/>
+    <comp lib="1" loc="(2400,310)" name="XOR Gate"/>
+    <comp lib="1" loc="(1520,380)" name="AND Gate"/>
+    <comp lib="1" loc="(1990,270)" name="XOR Gate"/>
+    <comp lib="1" loc="(1930,420)" name="AND Gate"/>
+    <comp lib="1" loc="(2340,400)" name="AND Gate"/>
+    <comp lib="1" loc="(270,190)" name="AND Gate"/>
+    <comp lib="1" loc="(1090,340)" name="AND Gate"/>
+    <comp lib="1" loc="(1150,190)" name="XOR Gate"/>
+    <comp lib="1" loc="(1580,230)" name="XOR Gate"/>
+    <comp lib="0" loc="(3560,320)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="tristate" val="false"/>
+    </comp>
+    <comp lib="6" loc="(3413,242)" name="Text">
+      <a name="text" val="(4)"/>
+    </comp>
+    <comp lib="1" loc="(2750,560)" name="AND Gate"/>
+    <comp lib="0" loc="(3460,230)" name="Constant">
+      <a name="facing" val="north"/>
+      <a name="value" val="0x0"/>
+    </comp>
+    <comp lib="1" loc="(1520,320)" name="AND Gate"/>
+    <comp lib="1" loc="(1200,340)" name="OR Gate"/>
+    <comp lib="1" loc="(3220,460)" name="XOR Gate"/>
+    <comp lib="0" loc="(3520,320)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="tristate" val="false"/>
+    </comp>
+    <comp lib="1" loc="(3160,550)" name="AND Gate"/>
+    <comp lib="0" loc="(3480,320)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="tristate" val="false"/>
+    </comp>
+    <comp lib="0" loc="(3560,230)" name="Constant">
+      <a name="facing" val="north"/>
+      <a name="value" val="0x0"/>
+    </comp>
     <comp lib="1" loc="(660,240)" name="AND Gate"/>
+  </circuit>
+  <circuit name="Secção Somador">
+    <a name="circuit" val="Secção Somador"/>
+    <a name="clabel" val=""/>
+    <a name="clabelup" val="east"/>
+    <a name="clabelfont" val="SansSerif plain 12"/>
+    <wire from="(100,80)" to="(100,150)"/>
+    <wire from="(350,300)" to="(400,300)"/>
+    <wire from="(100,170)" to="(100,310)"/>
+    <wire from="(130,110)" to="(130,250)"/>
+    <wire from="(180,150)" to="(180,230)"/>
+    <wire from="(100,370)" to="(210,370)"/>
+    <wire from="(100,310)" to="(210,310)"/>
+    <wire from="(180,150)" to="(220,150)"/>
+    <wire from="(70,80)" to="(70,170)"/>
+    <wire from="(260,300)" to="(300,300)"/>
+    <wire from="(130,80)" to="(130,110)"/>
+    <wire from="(360,150)" to="(400,150)"/>
+    <wire from="(180,290)" to="(210,290)"/>
+    <wire from="(180,230)" to="(210,230)"/>
+    <wire from="(70,170)" to="(100,170)"/>
+    <wire from="(130,110)" to="(220,110)"/>
+    <wire from="(130,250)" to="(130,350)"/>
+    <wire from="(260,360)" to="(280,360)"/>
+    <wire from="(260,240)" to="(280,240)"/>
+    <wire from="(280,320)" to="(300,320)"/>
+    <wire from="(280,130)" to="(300,130)"/>
+    <wire from="(280,280)" to="(300,280)"/>
+    <wire from="(280,240)" to="(280,280)"/>
+    <wire from="(280,320)" to="(280,360)"/>
+    <wire from="(100,150)" to="(180,150)"/>
+    <wire from="(130,250)" to="(210,250)"/>
+    <wire from="(130,350)" to="(210,350)"/>
+    <wire from="(100,170)" to="(300,170)"/>
+    <wire from="(100,310)" to="(100,370)"/>
+    <wire from="(180,230)" to="(180,290)"/>
+    <comp lib="6" loc="(233,200)" name="Text">
+      <a name="text" val="Grupo de E"/>
+      <a name="font" val="SansSerif bold 12"/>
+    </comp>
+    <comp lib="0" loc="(130,80)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="tristate" val="false"/>
+      <a name="label" val="B"/>
+      <a name="labelloc" val="north"/>
+    </comp>
+    <comp lib="1" loc="(260,360)" name="AND Gate"/>
+    <comp lib="1" loc="(350,300)" name="OR Gate"/>
+    <comp lib="1" loc="(360,150)" name="XOR Gate"/>
+    <comp lib="1" loc="(260,300)" name="AND Gate"/>
+    <comp lib="0" loc="(400,150)" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="label" val="S"/>
+      <a name="labelloc" val="north"/>
+    </comp>
+    <comp lib="0" loc="(70,80)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="tristate" val="false"/>
+      <a name="label" val="Cin"/>
+      <a name="labelloc" val="north"/>
+    </comp>
+    <comp lib="6" loc="(243,95)" name="Text">
+      <a name="text" val="XOR 1"/>
+      <a name="font" val="SansSerif bold 12"/>
+    </comp>
+    <comp lib="6" loc="(323,115)" name="Text">
+      <a name="text" val="XOR 2"/>
+      <a name="font" val="SansSerif bold 12"/>
+    </comp>
+    <comp lib="1" loc="(280,130)" name="XOR Gate"/>
+    <comp lib="0" loc="(100,80)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="tristate" val="false"/>
+      <a name="label" val="A"/>
+      <a name="labelloc" val="north"/>
+    </comp>
+    <comp lib="1" loc="(260,240)" name="AND Gate"/>
+    <comp lib="0" loc="(400,300)" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="label" val="Cout"/>
+      <a name="labelloc" val="north"/>
+    </comp>
   </circuit>
 </project>
